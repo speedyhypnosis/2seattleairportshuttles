@@ -1640,7 +1640,7 @@ a {
   color: #320707;
 }
 .cid-tX3lxiKk9O .mbr-section-title {
-  text-align: left;
+  text-align: center;
   color: #000000;
 }
 .cid-tX3lxiKk9O .mbr-section-subtitle {
@@ -1655,6 +1655,9 @@ a {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #a0e1e1;
+}
+.cid-tX3KSVF96k .mbr-section-subtitle {
+  text-align: center;
 }
 .cid-tX3hdsAmsk {
   padding-top: 1rem;
